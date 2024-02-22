@@ -1,0 +1,42 @@
+body,html{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    display: flex;
+   
+}
+.jhigu-chhen{
+    width: 10%;
+    height: 100vh;
+    background-color: green;
+    position: fixed;
+    
+    
+    
+    
+}
+.jhigu-chhen a{
+    height: 5em;
+    line-height: 15vh;
+    margin: 0;
+    padding: 0;
+
+}
+.header{
+    font-size: 24px;
+        font-weight: bold;
+        color: #333;
+        transform: rotate(-90deg);
+        position: absolute;
+        top: 40%;
+        height: 5em;
+        font-size: 10vh;
+        line-height: 15vh;
+        margin: 0;
+        padding: 0;
+        font-family: monospace;
+        /* transform: rotate(90deg); Rotate the text 90 degrees clockwise
+        transform-origin: left bottom; */
+        
+    
+}
